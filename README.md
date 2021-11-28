@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubhjain202
-- 👀 I’m interested in  software designing...
+- 👀 
 - 🌱 I’m currently learning java,web development ...
 - 📫 Reach out to me on shubhjain202@gmail.com
 <!---
