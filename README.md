@@ -1,37 +1,33 @@
-# Hello Everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-## I am a Data Enthusiast!
-- 🔭 I’m currently working as BI Analytics and Data Science Consultant 
-- 🌱 I’m currently working on Data Science Projects and implementations
+# Hello, I am Shubh ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## I am a data enthusiast and fervent programmer driven by a profound passion for Machine Learning!
+- 🔭 I’m currently a Computer Science Grad Student @ Arizona State University graduating in 2025.
+- 🌱 I’m currently seeking Summer 2024 Internship Opportunities. 
 - 👯 I’m looking to collaborate on LinkedIn
-- 🤔 I’m a curious learner, wanna join me?
-- 💬 Ask me about Crunching data to get Business Insights
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a foody but also a fitness enthusiast! ⚡
-## 📫 Reach me at: 
-[Handshake](https://tacomauw.joinhandshake.com/stu/users/32019953) |
-  [TableauPublic](https://public.tableau.com/app/profile/shephali.jain#!/?newProfile=&activeTab=0) |
-  [HackerRank](https://www.hackerrank.com/sheff_jain) |
-  [DataCamp](https://www.datacamp.com/profile/jainshep) |
-  Email me at: sheff.jain@gmail.com
+- 📫 How to reach me? <a href="mailto:sjain265@asu.edu">Email</a>
+  
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhjain202/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://shubhjain202.github.io/Portfolio/)
+[![Tableau](https://img.shields.io/badge/Tableau-Visualizations-blue?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/shubh.kumar.jain/vizzes)
+[![Instagram](https://img.shields.io/badge/Instagram-shubhjain306-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhjain306/)
+
+
+
+  
+# 💻 Tech Stack:
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
   
 
-<a href="https://www.linkedin.com/in/shephali-jain/"><img src="https://res.cloudinary.com/dderf3c2e/image/upload/v1608791787/Linkedin-Logo_zz8n0r.png" alt="drawing" width="100"/>;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/sheffjain2"><img src="https://res.cloudinary.com/dderf3c2e/image/upload/v1608791787/image_ibyytk.png" alt="drawing" width="40"/>&nbsp;&nbsp;<a href="https://www.kaggle.com/jainshep"><img src="https://res.cloudinary.com/dderf3c2e/image/upload/v1608791787/Kaggle_logo_qgcb8c.png" alt="drawing" width="75"/>
+
+
+<summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+ <p align = "center">
   
-**languages and tools:**  
+  <img src = "https://github-readme-stats.vercel.app/api?username=shubhjain202&show_icons=true&theme=tokyonight&line_height=25" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=shubhjain202&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=25" width = 400>
+</p>
+</details>
   
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  
-  📊 **this week i spent my time on:**
-  
-  
-```text
-SQL Practice      12 hrs 39 mins  ███████████████░░░░░░░░░░   60.35 %
-Tableau/PowerBI   8 hrs 3 mins    █████████▓░░░░░░░░░░░░░░░   38.43 %
-Python/R          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Other             10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-```
-  
-  📈 my github stats
-  
-<img src="https://github-readme-stats.vercel.app/api?username=ShephaliJain&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+ 
