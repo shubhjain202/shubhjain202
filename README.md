@@ -21,13 +21,11 @@
 
 
 
-<summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
- <p align = "center">
-  
-  <img src = "https://github-readme-stats.vercel.app/api?username=shubhjain202&show_icons=true&theme=tokyonight&line_height=25" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=shubhjain202&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=25" width = 400>
-</p>
+
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=shubhjain202&theme=nightowl&hide_border=false)<br/>
 
 
  
